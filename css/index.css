@@ -1,5 +1,5 @@
 section {
-  height: 80vh;
+  height: 85vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -11,6 +11,15 @@ section {
 section a {
   display: inline;
   text-decoration: none;
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  padding: 0.5em;
+  width: 4em;
+  border: 0px;
+  border-radius: 2px;
+  box-shadow: 0 2.5 2.5 0 rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+  text-align: center;
 }
 
 /*HEADER*/
@@ -46,26 +55,8 @@ section h2 {
 .om {
   font-size: 200%;
   background-color: #FFC107;
-  color: #ffffff;
-  font-family: 'Roboto', sans-serif;
-  padding: 0.5em;
-  width: 5em;
-  border: 0px;
-  border-radius: 3px;
-  box-shadow: 0 2.5 2.5 0 rgba(0, 0, 0, 0.5);
-  cursor: pointer;
-  display: inline;
 }
 .køb {
   font-size: 200%;
   background-color: #3F51B5;
-  color: #ffffff;
-  font-family: 'Roboto', sans-serif;
-  padding: 0.5em;
-  width: 5em;
-  border: 0px;
-  border-radius: 2.5px;
-  box-shadow: 0 2.5 2.5 0 rgba(0, 0, 0, 0.5);
-  cursor: pointer;
-  display: inline;
 }
