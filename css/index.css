@@ -55,6 +55,7 @@ section h2 {
 .om {
   font-size: 200%;
   background-color: #FFC107;
+  animation: mobileNav 1s;
 }
 .køb {
   font-size: 200%;
