@@ -1,4 +1,22 @@
 article {
   float: left;
   display: inline;
+  margin: 1em;
+  box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.2);
+}
+
+/*SECTION STYLING*/
+
+section {
+  height: 90vh;
+  overflow-y: scroll;
+  width: 1541px;
+  margin: auto;
+}
+
+/*IMAGE STYLING*/
+
+img {
+  max-width: 100%;
+  height: auto;
 }
