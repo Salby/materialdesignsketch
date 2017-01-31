@@ -45,33 +45,9 @@ header nav ul li a {
   }
 }
 
-/*.dropdown {
-  color: #ffffff;
-  background-color: #00000000;
-  border: none;
-  font-size: 100%;
-  cursor: pointer;
-  border-radius: 100%;
-  margin-left: 70vw;
-}
-.dropdown:hover {
-  background-color: rgba(255,255,255,0.1);
-}
-.responsive-dropdown {
-  color: #000000;
-  background-color: #ffffff;
-  border-radius: 2.5px;
-  position: absolute;
-  padding: 0px;
-  height: auto;
-}
-.link-responsive {
-  display: block;
-  color: #000000;
-}*/
-
-/* Dropdown Button */
-.dropbtn {
+.dropbtn,
+.dropbtn:focus,
+.dropbtn:active {
    background-color: #00000000;
    color: #ffffff;
    padding: 0.5em;
