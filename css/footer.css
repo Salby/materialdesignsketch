@@ -1,4 +1,11 @@
 footer {
   background-color: #303F9F;
   height: 20vh;
+  width: 100%;
+  box-shadow: 0 2.5px 5px 5px rgba(0,0,0,0.5);
+}
+footer p {
+  color: #C5CAE9;
+  padding: 3em;
+  margin: 0px;
 }

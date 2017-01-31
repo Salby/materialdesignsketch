@@ -4,6 +4,9 @@ section {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+
+  background-image: url(https://images.unsplash.com/photo-1424460421773-58b49adfc68a?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=);
+  background-size: cover;
 }
 section a {
   display: inline;
@@ -16,11 +19,13 @@ section h1 {
   font-size: 500%;
   font-family: 'Roboto', sans-serif;
   font-weight: 100;
+  color: #ffffff;
 }
 section h2 {
   font-size: 325%;
   font-family: 'Roboto', sans-serif;
   font-weight: 100;
+  color: #ffffff;
 }
 
   /*RESPONSIVE HEADER*/
@@ -48,6 +53,8 @@ section h2 {
   border: 0px;
   border-radius: 3px;
   box-shadow: 0 2.5 2.5 0 rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+  display: inline;
 }
 .køb {
   font-size: 200%;
@@ -57,6 +64,8 @@ section h2 {
   padding: 0.5em;
   width: 5em;
   border: 0px;
-  border-radius: 3px;
+  border-radius: 2.5px;
   box-shadow: 0 2.5 2.5 0 rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+  display: inline;
 }
