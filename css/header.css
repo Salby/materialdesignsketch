@@ -63,7 +63,7 @@ header nav ul li {
 
 /*RESPONSIVE HEADER WITH DROPDOWN*/
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 420px) {
   .link {
     display: none;
   }
@@ -78,7 +78,7 @@ header nav ul li {
     justify-content: center;
   }
 }
-@media only screen and (min-width: 376px) {
+@media only screen and (min-width: 421px) {
   .dropbtn {
     display: none;
   }
