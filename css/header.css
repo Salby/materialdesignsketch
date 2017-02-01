@@ -112,6 +112,7 @@ header nav ul li {
    z-index: 1;
    transition: all 0.3s ease 0s;
    overflow: hidden;
+   animation: mobileNav 0.3s;
 }
 
 .dropdown-content ul li {
